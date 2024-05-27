@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 axios.defaults.headers.common['x-api-key'] =
-  'live_WU3qNW7HCGgc9ygOkysxRpFXZrESXftSjzKXfEP6AiHj02s1uf3NyjBqcYglzxCa';
+  'live_cVfnC9lRBVdbsPJae8qrBaDalf8GTD4m8AHmZrAmiriMZ34TLW36LYrCQUmtKJ8u';
 
 export class CatApiService {
   //* Added Private Class Elements
