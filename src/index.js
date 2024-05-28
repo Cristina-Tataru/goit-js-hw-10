@@ -1,6 +1,6 @@
 import SlimSelect from 'slim-select';
 import Notiflix from 'notiflix';
-import { CatApiService } from './js/cat-api-service';
+import { CatApiService } from './js/components/cat-api-service';
 import Loader from './js/components/loader';
 
 const refs = {
